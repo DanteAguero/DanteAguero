@@ -115,49 +115,13 @@ El proyecto reúne desarrollo, implementación, experiencia de usuario, infraest
 
 </div>
 
----
-
-## 🛍️ Tiendas de demostración
-
-MKSUD incluye diferentes experiencias visuales pensadas para distintos tipos de negocios.
-
-### Moda · Tecnología · Servicios · Mayorista
-
-> Las siguientes imágenes corresponden a tiendas de demostración del ecosistema MKSUD.
+<br>
 
 <div align="center">
 
-<a href="https://mksud.com">
-<img src="https://mksud.com/static/theme-banners/demo-1.webp" width="48%" alt="MKSUD Demo 1">
-</a>
-
-<a href="https://mksud.com">
-<img src="https://mksud.com/static/theme-banners/demo-2.webp" width="48%" alt="MKSUD Demo 2">
-</a>
-
-<br><br>
-
-<a href="https://mksud.com">
-<img src="https://mksud.com/static/theme-banners/demo-3.webp" width="48%" alt="MKSUD Demo 3">
-</a>
-
-<a href="https://mksud.com">
-<img src="https://mksud.com/static/theme-banners/demo-4.webp" width="48%" alt="MKSUD Demo 4">
-</a>
-
-<br><br>
-
-<a href="https://mksud.com">
-<img src="https://mksud.com/static/theme-banners/demo-5.webp" width="70%" alt="MKSUD Demo 5">
-</a>
+<img src="./assets/mksud/mksud-showcase.png" width="100%" alt="MKSUD - Ecosistema de tiendas online">
 
 </div>
-
-<p align="center">
-
-[🌐 Explorar MKSUD y ver las tiendas demo →](https://mksud.com)
-
-</p>
 
 ---
 
@@ -306,15 +270,11 @@ Los proyectos públicos de este perfil tienen como objetivo mostrar **experienci
 
 <div align="center">
 
-![Dante's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanteAguero&show_icons=true&hide_border=true&theme=transparent)
+Mi actividad y proyectos públicos están disponibles en mi perfil de GitHub.
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanteAguero&layout=compact&hide_border=true&theme=transparent)
-
-<br><br>
-
-[![Dante's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanteAguero&theme=github-compact&hide_border=true&area=true&radius=8)](https://github.com/DanteAguero)
+[![GitHub](https://img.shields.io/badge/Ver%20mi%20actividad%20en%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanteAguero)
 
 </div>
 
