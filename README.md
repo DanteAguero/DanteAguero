@@ -4,7 +4,11 @@
 
 ### Especialista en Implementación de Software & Soporte IT · Nivel 2
 
-Tecnología aplicada a problemas reales.
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3500&pause=1200&color=555555&center=true&vCenter=true&width=850&lines=Implementaci%C3%B3n+de+Software+%E2%80%A2+Soporte+IT+L2;QA+%E2%80%A2+Docker+%E2%80%A2+Linux+%E2%80%A2+Infraestructura;Automatizaci%C3%B3n+con+IA+%E2%80%A2+Soluciones+digitales)](https://git.io/typing-svg)
+
+<br>
 
 **Implementación · Soporte IT · QA · Infraestructura · Automatización con IA**
 
@@ -24,7 +28,7 @@ Soy un profesional de tecnología especializado en **implementación de software
 
 Cuento con más de **14 años de experiencia trabajando con clientes, sistemas comerciales y entornos tecnológicos**, combinando conocimientos técnicos con una fuerte orientación al usuario y al negocio.
 
-Mi experiencia incluye **onboarding, soporte N1/N2, testing funcional, validación de datos, despliegue de aplicaciones, Docker, Linux y automatización de tareas con Inteligencia Artificial**. :contentReference[oaicite:1]{index=1}
+Mi experiencia incluye **onboarding, soporte N1/N2, testing funcional, validación de datos, despliegue de aplicaciones, Docker, Linux y automatización de tareas con Inteligencia Artificial**.
 
 Me interesa especialmente trabajar en el punto donde se encuentran **la tecnología, los procesos y las personas**, buscando soluciones que no solo funcionen técnicamente, sino que también sean útiles, claras y sostenibles en entornos reales.
 
@@ -121,16 +125,38 @@ MKSUD incluye diferentes experiencias visuales pensadas para distintos tipos de 
 
 > Las siguientes imágenes corresponden a tiendas de demostración del ecosistema MKSUD.
 
-<!-- Acá vamos a colocar las capturas reales -->
+<div align="center">
+
+<a href="https://mksud.com">
+<img src="https://mksud.com/static/theme-banners/demo-1.webp" width="48%" alt="MKSUD Demo 1">
+</a>
+
+<a href="https://mksud.com">
+<img src="https://mksud.com/static/theme-banners/demo-2.webp" width="48%" alt="MKSUD Demo 2">
+</a>
+
+<br><br>
+
+<a href="https://mksud.com">
+<img src="https://mksud.com/static/theme-banners/demo-3.webp" width="48%" alt="MKSUD Demo 3">
+</a>
+
+<a href="https://mksud.com">
+<img src="https://mksud.com/static/theme-banners/demo-4.webp" width="48%" alt="MKSUD Demo 4">
+</a>
+
+<br><br>
+
+<a href="https://mksud.com">
+<img src="https://mksud.com/static/theme-banners/demo-5.webp" width="70%" alt="MKSUD Demo 5">
+</a>
+
+</div>
 
 <p align="center">
-  <img src="URL-DE-LA-CAPTURA-1" width="48%">
-  <img src="URL-DE-LA-CAPTURA-2" width="48%">
-</p>
 
-<p align="center">
-  <img src="URL-DE-LA-CAPTURA-3" width="48%">
-  <img src="URL-DE-LA-CAPTURA-4" width="48%">
+[🌐 Explorar MKSUD y ver las tiendas demo →](https://mksud.com)
+
 </p>
 
 ---
@@ -238,3 +264,78 @@ Desplegar
 Monitorear
         ↓
 Mejorar
+```
+
+Mi objetivo es conectar **personas, procesos y tecnología** para convertir problemas operativos en soluciones funcionales.
+
+---
+
+# 📂 Otros proyectos
+
+## 🛡️ DIAMAJAZ
+
+Plataforma web desplegada en infraestructura de producción, con **Docker, Nginx, Cloudflare y servicios cloud**.
+
+## 📊 Dante CRM
+
+Sistema de gestión orientado a **clientes, servicios, vencimientos, renovaciones, alertas y automatizaciones operativas**.
+
+---
+
+# 📚 Certificaciones
+
+- **Google IT Support Professional Certificate**
+- **IBM DevOps, Cloud and Agile Foundations**
+- **Google AI Fundamentals**
+- **Scrum Fundamentals Certified**
+- **Business Analysis Fundamentals Certified**
+
+Estas certificaciones complementan mi experiencia práctica en **soporte, implementación, infraestructura, metodologías ágiles y automatización**.
+
+---
+
+# 🔒 Sobre mis repositorios
+
+Parte de mi trabajo profesional se mantiene en **repositorios privados**, ya que algunos proyectos corresponden a entornos reales y pueden involucrar información de clientes, sistemas comerciales o configuraciones de producción.
+
+Los proyectos públicos de este perfil tienen como objetivo mostrar **experiencia práctica, soluciones desarrolladas y enfoques técnicos**, sin exponer información confidencial ni credenciales.
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+![Dante's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanteAguero&show_icons=true&hide_border=true&theme=transparent)
+
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanteAguero&layout=compact&hide_border=true&theme=transparent)
+
+<br><br>
+
+[![Dante's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanteAguero&theme=github-compact&hide_border=true&area=true&radius=8)](https://github.com/DanteAguero)
+
+</div>
+
+---
+
+# 📫 Contacto
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dante%20Agüero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danteaguero)
+
+[![GitHub](https://img.shields.io/badge/GitHub-DanteAguero-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanteAguero)
+
+[![MKSUD](https://img.shields.io/badge/MKSUD-mksud.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mksud.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### Construyendo soluciones prácticas con tecnología.
+
+</div>
